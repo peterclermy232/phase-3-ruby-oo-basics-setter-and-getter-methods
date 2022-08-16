@@ -18,6 +18,5 @@ class Person
         #getter
         def job
           @job
-        end
 
 end

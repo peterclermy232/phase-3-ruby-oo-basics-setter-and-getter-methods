@@ -8,11 +8,5 @@ class Dog
   end
 
   def breed=(breed)
-    @breed = breed
-  end
-  #getter method
-  def breed
-    @breed
-  end
-  
+    @name 
 end

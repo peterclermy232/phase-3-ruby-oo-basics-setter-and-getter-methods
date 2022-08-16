@@ -16,8 +16,5 @@ class Person
         end
 
         #getter
-        def job
-          @job
-        end
 
 end

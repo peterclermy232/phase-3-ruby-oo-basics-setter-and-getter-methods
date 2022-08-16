@@ -15,9 +15,4 @@ class Person
         @job = job
         end
 
-        #getter
-        def job
-          @job
-        end
-
 end

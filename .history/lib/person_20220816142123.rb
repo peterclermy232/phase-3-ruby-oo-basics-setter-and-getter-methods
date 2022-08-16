@@ -13,11 +13,6 @@ class Person
 
       def job=(job)
         @job = job
-        end
-
-        #getter
-        def job
-          @job
-        end
+        en
 
 end
