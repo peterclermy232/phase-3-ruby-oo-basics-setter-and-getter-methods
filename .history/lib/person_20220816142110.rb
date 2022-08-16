@@ -12,12 +12,5 @@ class Person
       # job
 
       def job=(job)
-        @job = job
-        end
-
-        #getter
-        def job
-          @job
-        end
 
 end

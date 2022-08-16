@@ -11,8 +11,5 @@ class Dog
     @breed = breed
   end
   #getter method
-  def breed
-    @breed
-  end
-  
+  def br
 end
